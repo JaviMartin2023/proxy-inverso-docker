@@ -22,7 +22,7 @@ Dockerfile de proxy:
 ## **Configuración del docker-compose.yml**
 ![image](https://github.com/user-attachments/assets/2dea23ed-63d0-4653-98a4-e9458bfd67b0)
 
-## **Hacemos el docker build y el docker up:**
+## **Hacemos el docker up:**
 ![image](https://github.com/user-attachments/assets/2cf3c3fa-5922-4035-9496-4d07d368a5d5)
 ![image](https://github.com/user-attachments/assets/badf297b-fdc9-4c55-947f-104a750d72e0)
 
